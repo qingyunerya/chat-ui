@@ -1,2 +1,2 @@
-# chat-ui
+# fund-master-frontend
 Created with CodeSandbox
